@@ -14,3 +14,5 @@
 1. Простое приложение без изощрений интерфейса
 2. Удобство просмотра и редактирования
 3. Малое потребление ресурсов
+
+Приложение в Play Market : https://play.google.com/store/apps/details?id=technomag.technotodolist
