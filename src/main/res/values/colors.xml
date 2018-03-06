@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="task_title_back_hight">#FB8B82</color>
+    <color name="accent_task_back_hight">#BA6845</color>
+    <color name="task_title_back_middle">#82CDFB</color>
+    <color name="accent_task_back_middle">#4573BA</color>
+    <color name="task_title_back_low">#A3DA71</color>
+    <color name="accent_task_back_low">#519938</color>
+    <color name="task_title_back_note">#FBD882</color>
+    <color name="accent_note">#D06D2B</color>
+    <color name="task_title_text_def">#40403B</color>
+    <color name="task_description_back">#F5F5F5</color>
+    <color name="edit_text_background">#F5FFDE</color>
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="base_text_color">#000000</color>
+    <color name="text_disabled">#585857</color>
+    <color name="item_footer">#EAEAEA</color>
+    <color name="item_footer_shadow">#D9D9D9</color>
+</resources>

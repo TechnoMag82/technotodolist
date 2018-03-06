@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cat Todo List</string>
+    <string name="app_version">v1.4</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_add_todo">Добавить задачу</string>
+    <string name="title_activity_new_todo">Новая задача</string>
+    <string name="edit_hint_task_name">Название задачи</string>
+    <string name="edit_hint_task_text">Текст задачи</string>
+    <string name="button_add_task">Добавить задачу</string>
+    <string name="text_priority">Приоритет задачи:</string>
+    <string name="empty_string"></string>
+    <string name="activity_task_title">Ред. задачу</string>
+    <string name="new_task_title">Новая задача</string>
+    <string name="new_task_description">Описание задачи</string>
+
+    <string name="priority_note">Заметка</string>
+    <string name="priority_low">Низкий</string>
+    <string name="priority_middle">Средний</string>
+    <string name="priority_hight">Высокий</string>
+    <string name="action_edit_task">Редактировать задачу</string>
+    <string name="action_delete_task">Удалить задачу</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="about_text">О программе</string>
+    <string name="about_developer">Разработал TechnoMag. \nЯнварь 2014.</string>
+    <string name="about_web">http://technomag-programms.blogspot.com/</string>
+    <string name="dialog_title">Новая задача</string>
+    <string name="dialog_message">Введите название задачи и описание</string>
+    <string name="filter">Фильтр</string>
+    <string name="show">Показывать задачи с приоритетом</string>
+    <string name="sort">Сортировать задачи</string>
+    <string name="sort_by_date">По дате</string>
+    <string name="sort_by_priority">По приоритету</string>
+    <string name="filter_accept">Применить фильтр</string>
+
+</resources>

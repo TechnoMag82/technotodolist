@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_edit_task"
+        android:orderInCategory="100"
+        android:visible="false"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_edit_task"
+        android:icon="@drawable/ic_action_edit"/>
+    <item android:id="@+id/action_add_task"
+          android:title="@string/action_delete_task"
+          app:showAsAction="ifRoom"
+          android:visible="false"
+          android:icon="@drawable/ic_action_add_todo"></item>
+    <item android:id="@+id/action_delete_task"
+          android:title="@string/action_delete_task"
+          app:showAsAction="ifRoom"
+          android:visible="false"
+          android:icon="@drawable/ic_action_delete"></item>
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="toolbar_caption">16sp</dimen>
+    <dimen name="base_padding">4dp</dimen>
+    <dimen name="task_item_padding">8dp</dimen>
+
+</resources>
